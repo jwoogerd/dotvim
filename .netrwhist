@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/jwoogerd/Desktop/comp50-2013f/www/solutions'
+let g:netrw_dirhist_2='/Users/jwoogerd/Desktop/music-games/MusicGames/PureHagl/PureHagl'
+let g:netrw_dirhist_3='/Users/jwoogerd/Desktop/PureHagl/PureHagl/Examples'
+let g:netrw_dirhist_4='/Users/jwoogerd/.config/fish'
+let g:netrw_dirhist_5='/Applications/Maps.app'
+let g:netrw_dirhist_6='/Users/jwoogerd/Desktop/Tufts/comp150afp/improvise/Improvise'
