@@ -100,6 +100,7 @@ endif
 " set color scheme for MacVim
 if has("gui_running")
   colorscheme earthsong
+  set guifont=Menlo\ Regular:h16
   " colorscheme github 
 endif
   
