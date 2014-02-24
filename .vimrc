@@ -107,3 +107,5 @@ endif
 "syntastic does not work with fish shell
 set shell=/bin/bash
 
+"launch nerdtree file system browser automatically if no files are specified
+autocmd vimenter * if !argc() | NERDTree | endif
